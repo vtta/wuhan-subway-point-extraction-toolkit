@@ -13,4 +13,6 @@ pip install --upgrade pip opencv-python imutils pylint autopep8 rope
 ## External Links
 
 - [OpenCV shape detection](https://www.pyimagesearch.com/2016/02/08/opencv-shape-detection/)
+- [RGB-to-HSV Color Conversion](http://www.javascripter.net/faq/rgb2hsv.htm)
+- [RGB to HSV color table](https://www.rapidtables.com/convert/color/rgb-to-hsv.html)
 
