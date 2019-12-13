@@ -14,7 +14,7 @@ args = vars(ap.parse_args())
 # the shapes can be approximated better
 image = cv2.imread(args["image"])
 height, width, channels = image.shape
-resized = imutils.resize(image, int(width/10))
+resized = imutils.resize(image, int(width/1))
 ratio = image.shape[0] / float(resized.shape[0])
 
 # convert the resized image to grayscale, blur it slightly,

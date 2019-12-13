@@ -7,7 +7,7 @@
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-pip install --upgrade pip opencv-python imutils pylint autopep8 rope
+pip install --upgrade pip opencv-python imutils pylint autopep8 rope parse
 ```
 
 ## External Links
